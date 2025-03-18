@@ -21,6 +21,6 @@ public class Activites {
     }
     @Override
     public String toString() {
-        return "Activites [name=" + name + ", Start=" + Start + ", Finish=" + Finish + "]";
+        return    "Activites [name=" + name + ", Start=" + Start + ", Finish=" + Finish + "]";
     }
 }
